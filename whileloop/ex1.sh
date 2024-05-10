@@ -1,7 +1,7 @@
-#!/bin/bash
-
+#!/bin/bash -vx
 
 N=1
+
 while read LINE
 do
 	echo "$N : $LINE"
