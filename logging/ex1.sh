@@ -1,5 +1,5 @@
 #!/bin/bash
 
-V=$RANDOM
-echo $V
+VAR=$RANDOM
+echo $VAR
 logger -p user.info "Random num:$V"

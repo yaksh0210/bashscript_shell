@@ -1,8 +1,8 @@
 #!/bin/bash
 
-OBJECT=" man bear pig dog Cat sheep"
+OBJ=" man bear pig dog Cat sheep"
 
-for THING in $OBJECT
+for THING in $OBJ
 do
 	echo "$THING"
 done
